@@ -3,6 +3,8 @@
     <types>
         <members>CartItem-Cart Item Layout</members>
         <name>Layout</name>
+        <members>Account.NumberofLocations__c</members>
+        <name>CustomField</name>
     </types>
     <version>54.0</version>
 </Package>
